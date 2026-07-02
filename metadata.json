@@ -1,0 +1,6 @@
+{
+  "name": "The Barbie Doll Mystery",
+  "description": "An AI-powered ESL voice coach and detective escape room game supporting the study of Marge Piercy's poem 'Barbie Doll' for Form 4 students.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
